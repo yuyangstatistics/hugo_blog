@@ -1,10 +1,11 @@
-# hugo-paperMod Example
+# Blog Building Notes
 
-This repository offers an example site for [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+## References
+1. [Hugo PaperMod Demo](https://github.com/adityatelange/hugo-PaperMod)
+2. [Example Site of Hugo PaperMod](https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite)
+3. [Hugo Quick Start](https://gohugo.io/getting-started/quick-start/)
+4. [Hugo: Host on Github Pages](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
 
-## Install
-
-Read Wiki => [hugo-PaperMod - Installation](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation)
 
 ## Directory Tree
 
